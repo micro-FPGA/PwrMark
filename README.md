@@ -33,7 +33,7 @@ This is one of the most common questions FPGA designers and vendors face — and
 
 PwrMark was created to turn that vague answer into real, measurable, reproducible data.
 
-Unlike vendor power estimator tools, PwrMark measures **total board power from the 12V input rail**, including DCDC conversion losses. This is the number that actually matters for system power budgets, PSU sizing, and thermal design — not a theoretical chip-level estimate.
+Unlike vendor power estimator tools, PwrMark measures **total board power from the input rail**, including DCDC conversion losses. This is the number that actually matters for system power budgets, PSU sizing, and thermal design — not a theoretical chip-level estimate.
 
 ---
 
