@@ -1,0 +1,1 @@
+Board support files for Trenz Electronic SoM and boards

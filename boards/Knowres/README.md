@@ -1,0 +1,1 @@
+Board support for Knowledge Resources SoM modules
